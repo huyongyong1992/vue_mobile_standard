@@ -15,7 +15,7 @@ module.exports = {
             "rootValue": 37.5,
             "unitPrecision": 4,
             "minPixelValue": 2,
-            "propList": ["*"]
+            "propList": ["*", "!font*"]
         }
     }
 }
