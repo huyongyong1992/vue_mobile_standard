@@ -16,6 +16,7 @@
     "axios": "^0.18.0",
     "fastclick": "^1.0.6",
     "normalize.css": "^8.0.0",
+    "postcss-pxtorem": "^4.0.1",
     "vconsole": "^3.2.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
