@@ -13,7 +13,7 @@ module.exports = {
         },
         "postcss-pxtorem": {
             "rootValue": 37.5,
-            "unitPrecision": 4,
+            "unitPrecision": 4,         // 单位精度
             "minPixelValue": 2,
             "propList": ["*", "!font*"]
         }
