@@ -1,6 +1,3 @@
-# vue-cli
-
-> 官方脚手架
 
 ## Build Setup
 
@@ -18,4 +15,10 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## git
+
+同时关联了码云和github两个远程仓库
+```
+git push gitee master   // 提交到码云仓库
+git push github master  // 提交到GitHub 仓库
+```
